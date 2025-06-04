@@ -2,10 +2,8 @@
   "name": "eps-scraper",
   "version": "1.0.0",
   "main": "server.js",
-  
   "scripts": {
-    "start": "node server.js",
-    "postinstall": "puppeteer install chrome"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -18,3 +16,4 @@
     "puppeteer-extra-plugin-stealth": "^2.11.1"
   }
 }
+
